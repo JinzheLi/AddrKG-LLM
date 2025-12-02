@@ -1,0 +1,7002 @@
+[
+  {
+    "o_name": "北京市朝阳区南太平庄北巷",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "南太平庄北巷"
+  },
+  {
+    "o_name": "富华家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "富华家园"
+  },
+  {
+    "o_name": "朝阳区十里堡北区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "六里屯街道",
+    "name": "十里堡北区"
+  },
+  {
+    "o_name": "北京市第一建筑构件厂定福庄西街",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西街"
+  },
+  {
+    "o_name": "朝阳三间房西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "三间房西里"
+  },
+  {
+    "o_name": "朝阳区定福庄北街",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北街"
+  },
+  {
+    "o_name": "朝阳区双桥大院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "双桥西大院"
+  },
+  {
+    "o_name": "",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "丰台区御槐园",
+    "prov": "北京市",
+    "district": "丰台区",
+    "township": "南苑街道",
+    "name": "御槐园"
+  },
+  {
+    "o_name": "黄山木店路186号院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京朝阳区奥林匹克花园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "奥林匹克花园"
+  },
+  {
+    "o_name": "",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京市朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "朝阳区白领家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "白领家园"
+  },
+  {
+    "o_name": "北京市朝阳区定福庄南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄南里"
+  },
+  {
+    "o_name": "北京市朝阳区定福庄北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北里"
+  },
+  {
+    "o_name": "朝阳区定福庄北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北里1号院"
+  },
+  {
+    "o_name": "北京路桥机械厂有限公司管庄周井大院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "周井大院"
+  },
+  {
+    "o_name": "北京市朝阳区大黄庄建东苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "建东苑"
+  },
+  {
+    "o_name": "北京市朝阳区双桥路双惠苑小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "奥运村街道",
+    "name": "双惠苑1号院"
+  },
+  {
+    "o_name": "北京市朝阳区平房乡平房村",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "平房村"
+  },
+  {
+    "o_name": "升华商贸公司朝阳北路号院熙月尚郡",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "首开熙悦尚郡"
+  },
+  {
+    "o_name": "北京市朝阳区天泰北双苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "天泰北双苑"
+  },
+  {
+    "o_name": "朝阳区常营中路",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区东八里庄",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "八里庄东里"
+  },
+  {
+    "o_name": "定福庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西里"
+  },
+  {
+    "o_name": "朝阳区新天地",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "北京新天地"
+  },
+  {
+    "o_name": "北京市朝阳区惠民园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "惠民园"
+  },
+  {
+    "o_name": "朝阳管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "北京朝阳区管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "朝阳区道家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "六里屯街道",
+    "name": "道家园小区"
+  },
+  {
+    "o_name": "定福庄北里1号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北里"
+  },
+  {
+    "o_name": "朝阳区白领家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "白领家园"
+  },
+  {
+    "o_name": "朝阳区金福家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "金福家园"
+  },
+  {
+    "o_name": "朝阳区晨光家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "六里屯街道",
+    "name": "晨光家园"
+  },
+  {
+    "o_name": "朝阳区二外北里1号院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区爱这城乙2号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "首创·爱这城"
+  },
+  {
+    "o_name": "朝阳区方家村",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "方家村"
+  },
+  {
+    "o_name": "北京朝阳区定福庄北街",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区大黄庄绿岛苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "绿岛苑东区"
+  },
+  {
+    "o_name": "朝阳区八里庄东里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "八里庄东里"
+  },
+  {
+    "o_name": "远洋天地",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "远洋天地"
+  },
+  {
+    "o_name": "朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "朝阳区平房乡亮马厂村",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "亮马厂"
+  },
+  {
+    "o_name": "朝阳区水碓子北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "团结湖街道",
+    "name": "水碓子社区"
+  },
+  {
+    "o_name": "大黄庄南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "大黄庄南里"
+  },
+  {
+    "o_name": "三间房南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "三间房南里4号院"
+  },
+  {
+    "o_name": "朝阳区泰福苑三区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "泰福苑"
+  },
+  {
+    "o_name": "朝阳区甘露园南里一区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里一区"
+  },
+  {
+    "o_name": "朝阳区定福庄西里3号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西里"
+  },
+  {
+    "o_name": "大黄庄南里妇联小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "大黄庄南里"
+  },
+  {
+    "o_name": "朝阳区二外5建",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区定福庄聚福苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "聚福苑"
+  },
+  {
+    "o_name": "北京恒懋新物业管理有限公司",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区双桥",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区康家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "康家园"
+  },
+  {
+    "o_name": "朝阳区青年路建材贸易小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "建材经贸小区"
+  },
+  {
+    "o_name": "朝阳区汇鸿家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "汇鸿家园"
+  },
+  {
+    "o_name": "八里庄北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "六里屯街道",
+    "name": "八里庄北里"
+  },
+  {
+    "o_name": "北京市朝阳区黄杉木店路号富华家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "富华家园"
+  },
+  {
+    "o_name": "福怡苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "福怡苑"
+  },
+  {
+    "o_name": "朝阳区双桥南路号院华美橡树岭",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "黑庄户乡",
+    "name": "华美橡树岭"
+  },
+  {
+    "o_name": "朝阳区管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "北京市朝阳区通惠家园惠润园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "通惠家园"
+  },
+  {
+    "o_name": "朝阳区甘露园南里新",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "北京十里堡北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "六里屯街道",
+    "name": "十里堡北里"
+  },
+  {
+    "o_name": "三间房南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "三间房南里4号院"
+  },
+  {
+    "o_name": "朝阳区熙悦尚郡",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "首开熙悦尚郡"
+  },
+  {
+    "o_name": "北京市朝阳区林泉街",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区黄衫木店富华家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "富华家园"
+  },
+  {
+    "o_name": "朝阳区定福庄北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北里"
+  },
+  {
+    "o_name": "北京通州区永顺镇西马庄",
+    "prov": "北京市",
+    "district": "通州区",
+    "township": "永顺镇",
+    "name": "西马庄园"
+  },
+  {
+    "o_name": "北京朝阳定福庄西街",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区北齿小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "北齿小区"
+  },
+  {
+    "o_name": "北京市朝阳区姚家园西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "姚家园西里"
+  },
+  {
+    "o_name": "朝阳区八里庄北路",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京市朝阳区管庄乡杨闸村",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "杨闸新村"
+  },
+  {
+    "o_name": "兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "中国建筑材料科学研究院甲",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "中国建筑材料科学研究院"
+  },
+  {
+    "o_name": "中智人才顾问有限公司",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区定福庄南里3号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄南里3号院"
+  },
+  {
+    "o_name": "朝阳区定福庄西街",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西街"
+  },
+  {
+    "o_name": "朝阳区定福庄西街南",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西街"
+  },
+  {
+    "o_name": "管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "双桥东柳西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "东柳西里"
+  },
+  {
+    "o_name": "民航总医院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "民航总医院宿舍"
+  },
+  {
+    "o_name": "朝阳甘露园南里区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "朝阳区管庄东里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄东里"
+  },
+  {
+    "o_name": "朝阳区三间房东柳西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "东柳西里"
+  },
+  {
+    "o_name": "朝阳区管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "朝阳三间房玲珑山小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "玲珑山"
+  },
+  {
+    "o_name": "朝阳区定福庄北里号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北里1号院"
+  },
+  {
+    "o_name": "康家园小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "康家园"
+  },
+  {
+    "o_name": "定福庄南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄南里"
+  },
+  {
+    "o_name": "朝阳区三间房西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "三间房西里"
+  },
+  {
+    "o_name": "朝阳区定福庄西街",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西街"
+  },
+  {
+    "o_name": "三间房南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "三间房南里"
+  },
+  {
+    "o_name": "朝阳区常青藤区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "首开常青藤一期"
+  },
+  {
+    "o_name": "朝阳区管庄号院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "北京富华建设发展有限公司",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "富华家园"
+  },
+  {
+    "o_name": "朝阳区高碑店康家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "康家园"
+  },
+  {
+    "o_name": "朝阳区东军庄",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "东军庄"
+  },
+  {
+    "o_name": "北京市朝阳区定福庄北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北里"
+  },
+  {
+    "o_name": "民航总医院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "民航总医院宿舍"
+  },
+  {
+    "o_name": "北京华侨城1号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "南磨房乡",
+    "name": "北京华侨城1号院"
+  },
+  {
+    "o_name": "北京市朝阳区黄杉木店路号富华家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "富华家园"
+  },
+  {
+    "o_name": "朝阳区高井",
+    "prov": "北京市",
+    "district": "石景山区",
+    "township": "五里坨街道",
+    "name": "高井"
+  },
+  {
+    "o_name": "富力又一城",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "豆各庄乡",
+    "name": "富力又一城"
+  },
+  {
+    "o_name": "北京市朝阳区管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "朝阳区常营汇鸿家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "汇鸿家园"
+  },
+  {
+    "o_name": "北京朝阳区南太平庄北巷",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "南太平庄北巷"
+  },
+  {
+    "o_name": "朝阳区英郡小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "英郡小区"
+  },
+  {
+    "o_name": "北京市朝阳区三间房泰福苑区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "泰福苑D1区"
+  },
+  {
+    "o_name": "北京市朝阳区生研所",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京定福庄福怡苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "福怡苑"
+  },
+  {
+    "o_name": "北京市朝阳区定福庄北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北里"
+  },
+  {
+    "o_name": "河北省燕郊潮白人家",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "管庄惠康园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "金隅康惠园2号院"
+  },
+  {
+    "o_name": "朝阳区高碑店村号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "高碑店村"
+  },
+  {
+    "o_name": "定福庄西街",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西街"
+  },
+  {
+    "o_name": "北京市朝阳区东坝悦和园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "金隅悦和园"
+  },
+  {
+    "o_name": "王四营观音景园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "王四营乡",
+    "name": "观音景园"
+  },
+  {
+    "o_name": "朝阳区管庄双柳北街号院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京市朝阳区定福庄北街",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区雅城一里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "雅成一里"
+  },
+  {
+    "o_name": "北京京广中心有限公司青年路22号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "呼家楼街道",
+    "name": "京广中心"
+  },
+  {
+    "o_name": "泰福苑2区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "泰福苑D2区"
+  },
+  {
+    "o_name": "北京朝阳区大黄庄东路",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "大黄庄东路"
+  },
+  {
+    "o_name": "朝阳区万象新天",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "万象新天"
+  },
+  {
+    "o_name": "朝阳定福庄西里3号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西里"
+  },
+  {
+    "o_name": "朝阳区甘露园南里1区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "东旭花园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "黑庄户乡",
+    "name": "东旭花园"
+  },
+  {
+    "o_name": "北京市朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "北京市朝阳区和敬路59号院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "奥林匹克花园二期号楼",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "奥林匹克花园二期"
+  },
+  {
+    "o_name": "爱立信科技服务中国有限公司",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "通州翠福园",
+    "prov": "北京市",
+    "district": "通州区",
+    "township": "永顺镇",
+    "name": "翠福园"
+  },
+  {
+    "o_name": "朝阳区水岸双桥",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "水岸双桥"
+  },
+  {
+    "o_name": "朝阳区双桥农场5号井",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "黑庄户乡",
+    "name": "双桥五号井"
+  },
+  {
+    "o_name": "朝阳北路号院英郡小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "英郡小区"
+  },
+  {
+    "o_name": "朝阳区雅城2里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "雅成二里"
+  },
+  {
+    "o_name": "朝阳区东军庄",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "东军庄"
+  },
+  {
+    "o_name": "朝阳区二外",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "北京第二外国语学院"
+  },
+  {
+    "o_name": "朝阳姚家园西里号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "姚家园西里2号院"
+  },
+  {
+    "o_name": "朝阳区京通苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "京通苑"
+  },
+  {
+    "o_name": "北京市朝阳区温泉北里",
+    "prov": "北京市",
+    "district": "海淀区",
+    "township": "上地街道",
+    "name": "温泉北里"
+  },
+  {
+    "o_name": "朝阳区甘露西园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "甘露西园"
+  },
+  {
+    "o_name": "北京市朝阳区定福庄北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福家园北里1号院"
+  },
+  {
+    "o_name": "北京双桥双柳巷",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "双柳巷"
+  },
+  {
+    "o_name": "管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "北京市朝阳区朝阳无限",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "朝阳无限芳菁苑"
+  },
+  {
+    "o_name": "朝阳区黄山木店",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京朝阳建国路",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "建外街道",
+    "name": "建国路100号"
+  },
+  {
+    "o_name": "北京朝阳三间房泰福苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "泰福苑D2区"
+  },
+  {
+    "o_name": "朝阳区双惠苑2号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "双惠苑2号院"
+  },
+  {
+    "o_name": "北京东坝奥林匹克花园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "奥林匹克花园"
+  },
+  {
+    "o_name": "朝阳区高碑店",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "高碑店东区"
+  },
+  {
+    "o_name": "管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "朝阳区十里堡嘉园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "珠江罗马嘉园"
+  },
+  {
+    "o_name": "朝阳区定福庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西里"
+  },
+  {
+    "o_name": "北京市朝阳区三间房乡社会保障事务所医疗保",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "三间房南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "三间房南里4号院"
+  },
+  {
+    "o_name": "朝阳区周家井荟康苑小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "荟康苑"
+  },
+  {
+    "o_name": "三间房南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "三间房南里4号院"
+  },
+  {
+    "o_name": "朝阳区平房西口",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京市朝阳区东坝乡单店村",
+    "prov": "朝阳区",
+    "district": "东坝乡",
+    "township": "单店村",
+    "name": "单店村"
+  },
+  {
+    "o_name": "朝阳区双桥北双桥南里",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区青年路西里3号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "润枫水尚西区"
+  },
+  {
+    "o_name": "朝阳区双河家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "垡头街道",
+    "name": "双合家园"
+  },
+  {
+    "o_name": "北京市朝阳区双桥双汇苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "双惠苑2号院"
+  },
+  {
+    "o_name": "朝阳区高碑店5号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "高碑店村5号院"
+  },
+  {
+    "o_name": "北京市朝阳区甘露园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "甘露园东里"
+  },
+  {
+    "o_name": "朝阳区定福庄南里3号院6排",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄南里3号院"
+  },
+  {
+    "o_name": "定福庄北里1号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北里1号院"
+  },
+  {
+    "o_name": "朝阳区高碑店东区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "高碑店东区"
+  },
+  {
+    "o_name": "朝阳区甘露园南里区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "朝阳区富华家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "富华家园"
+  },
+  {
+    "o_name": "朝阳区双桥东柳西里铁路小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "双桥铁路小区"
+  },
+  {
+    "o_name": "北京市朝阳区大黄庄苗圃",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "大黄庄苗圃"
+  },
+  {
+    "o_name": "北京朝阳区建国路15号院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区亮马厂",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "亮马厂"
+  },
+  {
+    "o_name": "北京朝阳姚家园东里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "姚家园东里"
+  },
+  {
+    "o_name": "朝阳区双桥中路北院号",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "黑庄户乡",
+    "name": "双桥中路10号北院"
+  },
+  {
+    "o_name": "北京神舟国际旅行社集团有限公司宿舍",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京朝阳区南太平庄北巷",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "南太平庄北巷"
+  },
+  {
+    "o_name": "朝阳区大黄庄妇联小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "妇联小区"
+  },
+  {
+    "o_name": "河北省邢台市广宗县核桃园乡东董里村",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区甘露园南里一区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里一区"
+  },
+  {
+    "o_name": "朝阳区定福家园南里25号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "定福家园南里"
+  },
+  {
+    "o_name": "北京同力达通信服务有限公司",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "十里堡东里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "十里堡东里"
+  },
+  {
+    "o_name": "华业东方玫瑰",
+    "prov": "北京市",
+    "district": "通州区",
+    "township": "临河里街道",
+    "name": "华业东方玫瑰B区"
+  },
+  {
+    "o_name": "朝阳区北里2号院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "高碑店代理处青年路小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "青年路小区"
+  },
+  {
+    "o_name": "北京市朝阳区青年路西里5号院润枫水尚",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "润枫水尚西区"
+  },
+  {
+    "o_name": "朝阳区定福庄西街",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西街"
+  },
+  {
+    "o_name": "朝阳区甘露园南里3区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "朝阳区大黄庄",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区黄渠泰福苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "泰福苑"
+  },
+  {
+    "o_name": "通州京洲园大方居",
+    "prov": "北京市",
+    "district": "通州区",
+    "township": "梨园镇",
+    "name": ""
+  },
+  {
+    "o_name": "三间房乡东柳西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "东柳西里"
+  },
+  {
+    "o_name": "北京市朝阳区东坝金泰丽富家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "金泰丽富嘉园北区"
+  },
+  {
+    "o_name": "北京双桥小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "双桥小区"
+  },
+  {
+    "o_name": "朝阳区康家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "康家园"
+  },
+  {
+    "o_name": "北京歌华有线电视网络股份有限公司",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区双桥康惠园3号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "金隅康惠园"
+  },
+  {
+    "o_name": "朝阳区高碑店新村西一区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "高碑店新村一区"
+  },
+  {
+    "o_name": "1朝阳区定福庄北街聚福苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "聚福苑"
+  },
+  {
+    "o_name": "朝阳区姚家园东里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "姚家园东里"
+  },
+  {
+    "o_name": "东城区和平里街道社会保险代理处",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区甘露园南里新",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "朝阳大黄庄东路4号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "大黄庄东路"
+  },
+  {
+    "o_name": "定福庄北街福怡苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "福怡苑"
+  },
+  {
+    "o_name": "兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "朝阳区管庄45号院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京市西城区槐柏树街",
+    "prov": "北京市",
+    "district": "西城区",
+    "township": "广安门内街道",
+    "name": ""
+  },
+  {
+    "o_name": "朝阳区东润枫景",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东风乡",
+    "name": "东润枫景一期"
+  },
+  {
+    "o_name": "朝阳区管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "朝阳区大黄庄南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "大黄庄南里"
+  },
+  {
+    "o_name": "北京甘露园南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "朝阳区高碑店2区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "高碑店东区"
+  },
+  {
+    "o_name": "朝阳区国美第一城号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "国美第一城3号院"
+  },
+  {
+    "o_name": "北京思慧莉化妆品有限公司",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京市朝阳区三间房泰福院2区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "泰福苑D2区"
+  },
+  {
+    "o_name": "朝阳区双柳巷小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "双柳巷"
+  },
+  {
+    "o_name": "朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "北京市朝阳区高碑店西区35排",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区甘露园南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "北京市朝阳区定福庄西街",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西街"
+  },
+  {
+    "o_name": "南太平庄北巷",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "南太平庄北巷"
+  },
+  {
+    "o_name": "朝阳青年路国美第一城",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "国美第一城"
+  },
+  {
+    "o_name": "朝阳区驻华家园",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京市朝阳区黄杉木店七巷8号内",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "红庙北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "红庙北里"
+  },
+  {
+    "o_name": "朝阳区管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "朝阳区绿丰家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "豆各庄乡",
+    "name": "绿丰家园"
+  },
+  {
+    "o_name": "朝阳区国美第一城",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "国美第一城"
+  },
+  {
+    "o_name": "朝阳区定福庄金星小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "金星小区"
+  },
+  {
+    "o_name": "朝阳区十里堡",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "十里堡"
+  },
+  {
+    "o_name": "朝阳区大鲁店一村",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "大鲁店一村"
+  },
+  {
+    "o_name": "朝阳区双桥街",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳青年路雅城一里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "雅成一里"
+  },
+  {
+    "o_name": "朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "朝阳甘露园南里1区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "北京市朝阳区定福庄西街12号楼一单元",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区青年路小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "青年路小区"
+  },
+  {
+    "o_name": "管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "朝阳区甘露园南里2区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "北京市朝阳区八里庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "八里庄西里"
+  },
+  {
+    "o_name": "朝阳太平庄北巷",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "太平庄北社区"
+  },
+  {
+    "o_name": "朝阳区北花园小区3号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "北花园"
+  },
+  {
+    "o_name": "朝阳区东坝红松园一号内",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "红松园1号内"
+  },
+  {
+    "o_name": "北京通州西马庄",
+    "prov": "北京市",
+    "district": "通州区",
+    "township": "永顺镇",
+    "name": "西马庄园"
+  },
+  {
+    "o_name": "朝阳区甘露园南里2区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "北京通州新城乐居",
+    "prov": "北京市",
+    "district": "通州区",
+    "township": "新华街道",
+    "name": "新城乐居"
+  },
+  {
+    "o_name": "朝阳区甘露园南里新",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "朝阳区北京像素北",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "北京像素"
+  },
+  {
+    "o_name": "朝阳区定福庄西里3号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西里"
+  },
+  {
+    "o_name": "北京市朝阳区广华新城3区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "南磨房乡",
+    "name": "广华新城"
+  },
+  {
+    "o_name": "朝阳区十里堡东里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "十里堡东里"
+  },
+  {
+    "o_name": "朝阳区大黄庄东路",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "大黄庄东路"
+  },
+  {
+    "o_name": "北京奥吉通汽车销售有限公司",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京市朝阳区青年路小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "青年路小区"
+  },
+  {
+    "o_name": "朝阳区柏林爱乐",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "柏林爱乐"
+  },
+  {
+    "o_name": "通州区新潮家园",
+    "prov": "北京市",
+    "district": "通州区",
+    "township": "潞邑街道",
+    "name": "新潮嘉园一期"
+  },
+  {
+    "o_name": "北京市朝阳北路22号院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区建东苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "建东苑"
+  },
+  {
+    "o_name": "朝阳区富华家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "富华家园"
+  },
+  {
+    "o_name": "朝阳区豆各庄绿丰家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "豆各庄乡",
+    "name": "绿丰家园"
+  },
+  {
+    "o_name": "朝阳区新源里新源街",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "左家庄街道",
+    "name": "新源街"
+  },
+  {
+    "o_name": "北京天坛联合实业公司",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区八里庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "八里庄西里"
+  },
+  {
+    "o_name": "北京市朝阳区朝阳北路朝阳雅筑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "朝阳雅筑"
+  },
+  {
+    "o_name": "北京市朝阳区王四营乡南花园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "王四营乡",
+    "name": "南花园村"
+  },
+  {
+    "o_name": "朝阳区十里堡",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "十里堡"
+  },
+  {
+    "o_name": "朝阳区常营保利嘉园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "保利嘉园"
+  },
+  {
+    "o_name": "朝阳区青年路西里8号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "润枫水尚西区"
+  },
+  {
+    "o_name": "朝阳区天泰苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "天泰苑A8区"
+  },
+  {
+    "o_name": "朝阳区金家坟西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "金家坟"
+  },
+  {
+    "o_name": "北京市朝阳区甘露园南里1区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "朝阳区远洋一方花语苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "远洋一方花语苑"
+  },
+  {
+    "o_name": "十里堡都会华庭甲号院号楼纽约阁",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "都会华庭"
+  },
+  {
+    "o_name": "北京定福庄北里1号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北里1号院"
+  },
+  {
+    "o_name": "朝阳区甘露园南里二区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "宣武区职业介绍服务中心社会保险代理处",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区定福庄西里3号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西里"
+  },
+  {
+    "o_name": "北京朝阳区烟厂宿舍",
+    "prov": "北京市",
+    "district": "海淀区",
+    "township": "北下关街道",
+    "name": "烟厂宿舍"
+  },
+  {
+    "o_name": "朝阳区黑庄户郎各庄",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "黑庄户乡",
+    "name": "郎各庄村"
+  },
+  {
+    "o_name": "朝阳区定福庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西里"
+  },
+  {
+    "o_name": "朝阳区南太平庄北巷",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "南太平庄北巷"
+  },
+  {
+    "o_name": "朝阳区八里庄东里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "八里庄东里"
+  },
+  {
+    "o_name": "朝阳区华龙美树",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "华龙美树"
+  },
+  {
+    "o_name": "朝阳区百子湾北巷12排",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "南磨房乡",
+    "name": "百子湾店"
+  },
+  {
+    "o_name": "朝阳区通惠家园惠明园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "通惠家园"
+  },
+  {
+    "o_name": "北京市朝阳区建东苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "建东苑"
+  },
+  {
+    "o_name": "北京市朝阳区高碑店乡高碑店村",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "高碑店村"
+  },
+  {
+    "o_name": "北京朝阳住欣家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "住欣家园"
+  },
+  {
+    "o_name": "朝阳区北花园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "北花园"
+  },
+  {
+    "o_name": "陶家湾",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "陶家湾"
+  },
+  {
+    "o_name": "黑庄户双树北队",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "黑庄户乡",
+    "name": "双树北村"
+  },
+  {
+    "o_name": "朝阳远洋天地",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "远洋天地"
+  },
+  {
+    "o_name": "朝阳区高楼金地",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区天泰新房苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "天泰新房苑"
+  },
+  {
+    "o_name": "朝阳区北京新天地1期",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "北京新天地"
+  },
+  {
+    "o_name": "朝阳区东坝中路金泰丽富家园28号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "金泰丽富嘉园南区"
+  },
+  {
+    "o_name": "朝阳区康家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "康家园"
+  },
+  {
+    "o_name": "北京市朝阳区松榆西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "潘家园街道",
+    "name": "松榆西里"
+  },
+  {
+    "o_name": "将台路将府家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "将台乡",
+    "name": "将府家园"
+  },
+  {
+    "o_name": "甘露园西里2西",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "甘露园西里"
+  },
+  {
+    "o_name": "北京市朝阳区定福庄南里4号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄南里"
+  },
+  {
+    "o_name": "北京朝阳区管庄西里烟厂宿舍",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "东城区龙北",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "中国机械设备进出口总公司",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "丰台区韩庄子东里",
+    "prov": "北京市",
+    "district": "丰台区",
+    "township": "看丹街道",
+    "name": "韩庄子东里"
+  },
+  {
+    "o_name": "北京朝阳平房乡亮马厂",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "亮马厂"
+  },
+  {
+    "o_name": "北京市密云县密云镇宾阳里",
+    "prov": "北京市",
+    "district": "密云区",
+    "township": "鼓楼街道",
+    "name": "宾阳里"
+  },
+  {
+    "o_name": "北京市朝阳区常营乡常营四队",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区姚家园西里2号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "姚家园西里2号院"
+  },
+  {
+    "o_name": "北京定福庄西街",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区雅成一里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "雅成一里"
+  },
+  {
+    "o_name": "朝阳区红松路1号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "红松园1号内"
+  },
+  {
+    "o_name": "北京昆泰房地产开发集团劳务服务中心",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区定福庄1号院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区观音堂",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "王四营乡",
+    "name": "观音堂"
+  },
+  {
+    "o_name": "北京市朝阳区姚家园东里八号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "姚家园东里"
+  },
+  {
+    "o_name": "朝阳区青年路甘露园3区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园"
+  },
+  {
+    "o_name": "万象新天",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "万象新天"
+  },
+  {
+    "o_name": "北京朝阳区大黄庄花园闸北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "花园闸北里"
+  },
+  {
+    "o_name": "朝阳金隅汇景苑2区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "汇景苑"
+  },
+  {
+    "o_name": "朝阳区鑫兆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "鑫兆佳园"
+  },
+  {
+    "o_name": "朝阳区东柳西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "东柳西里"
+  },
+  {
+    "o_name": "通州区西马庄园",
+    "prov": "北京市",
+    "district": "通州区",
+    "township": "永顺镇",
+    "name": "西马庄园"
+  },
+  {
+    "o_name": "大兴区旧宫镇北湖小区",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区双桥琳笼山小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "玲珑山"
+  },
+  {
+    "o_name": "北京丰台区芳城园",
+    "prov": "北京市",
+    "district": "丰台区",
+    "township": "方庄街道",
+    "name": "芳城园"
+  },
+  {
+    "o_name": "朝阳管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "朝阳区三间房西路4号院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "朝阳区国美第一城",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "国美第一城"
+  },
+  {
+    "o_name": "管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "北京市朝阳区建东苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "建东苑"
+  },
+  {
+    "o_name": "朝阳区定福庄西街23北",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西街"
+  },
+  {
+    "o_name": "福怡苑小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "福怡苑"
+  },
+  {
+    "o_name": "朝阳区三间房东路",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "三间房东路"
+  },
+  {
+    "o_name": "朝阳区双桥东路12号院东一时区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "东一时区"
+  },
+  {
+    "o_name": "朝阳建东苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "建东苑"
+  },
+  {
+    "o_name": "北京市昌平区天通苑西一区",
+    "prov": "北京市",
+    "district": "昌平区",
+    "township": "天通苑南街道",
+    "name": "天通西苑一区"
+  },
+  {
+    "o_name": "朝阳区泰福苑3区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "泰福苑D3区"
+  },
+  {
+    "o_name": "朝阳区定福庄北里一号",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北里1号院"
+  },
+  {
+    "o_name": "朝阳区甘露园二区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": ""
+  },
+  {
+    "o_name": "北京市青年路国美第一城3号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "国美第一城3号院"
+  },
+  {
+    "o_name": "甘露园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "甘露园西里"
+  },
+  {
+    "o_name": "朝阳区常营万象新天1区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "万象新天一区"
+  },
+  {
+    "o_name": "朝阳区管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "朝阳区传媒大学学校",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "中国传媒大学学生公寓8号东楼"
+  },
+  {
+    "o_name": "朝阳区甘露园南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "朝阳区国美第一城",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "国美第一城"
+  },
+  {
+    "o_name": "北京国电水利电力工程有限公司",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区甘露园丽景馨园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "丽景馨居"
+  },
+  {
+    "o_name": "朝阳区青年路西里3号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "润枫水尚西区"
+  },
+  {
+    "o_name": "北京市朝阳区三间房泰福苑二区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "泰福苑D2区"
+  },
+  {
+    "o_name": "朝阳区定福庄西里3号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西里"
+  },
+  {
+    "o_name": "北京朝阳区三间房西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "三间房西里"
+  },
+  {
+    "o_name": "朝阳区定福庄北街福怡苑小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "福怡苑"
+  },
+  {
+    "o_name": "北京东大桥路",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "呼家楼街道",
+    "name": "东大桥路"
+  },
+  {
+    "o_name": "北京三间房白家楼村",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": ""
+  },
+  {
+    "o_name": "朝阳区定福庄金星小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "金星小区"
+  },
+  {
+    "o_name": "北京朝阳区管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "北京市朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "北京市朝阳区延静西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "延静西里"
+  },
+  {
+    "o_name": "朝阳十里堡甲",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "十里堡"
+  },
+  {
+    "o_name": "北京市朝阳区黄杉木店路186号院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "三间房西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "三间房西里"
+  },
+  {
+    "o_name": "北京市朝阳区高碑店花园闸北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "花园闸北里"
+  },
+  {
+    "o_name": "北京朝阳区康家沟村委会",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区双桥26排",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区管庄东里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄东里"
+  },
+  {
+    "o_name": "北京市朝阳区定福庄北街福怡苑南区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "福怡苑"
+  },
+  {
+    "o_name": "北京传媒大学北花园村",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "北花园"
+  },
+  {
+    "o_name": "北京朝阳三间房双柳小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "双柳新居"
+  },
+  {
+    "o_name": "北京朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "三间房南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "三间房南里4号院"
+  },
+  {
+    "o_name": "朝阳区住欣家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "住欣家园"
+  },
+  {
+    "o_name": "朝阳区十里堡爱这城1期",
+    "prov": "北京市",
+    "district": "东城区",
+    "township": "东华门街道",
+    "name": "爱这城一期"
+  },
+  {
+    "o_name": "朝阳区定福家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "定福家园3号院"
+  },
+  {
+    "o_name": "朝阳区常营民族家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "常营民族家园"
+  },
+  {
+    "o_name": "朝阳区双桥康惠园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "金隅康惠园"
+  },
+  {
+    "o_name": "北京柏年世豪物业管理有限公司",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京振兴新业劳务服务有限公司",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区三间房西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "三间房西里"
+  },
+  {
+    "o_name": "朝阳区通惠家园惠民园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "惠民园"
+  },
+  {
+    "o_name": "双柳小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "双柳新居"
+  },
+  {
+    "o_name": "朝阳区高碑店西区",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京市朝阳区双桥街东柳西里楼",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "东柳西里"
+  },
+  {
+    "o_name": "高碑店陶家湾小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "高碑店乡陶家湾"
+  },
+  {
+    "o_name": "朝阳区青年路",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "朝阳区定福庄西街",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西街"
+  },
+  {
+    "o_name": "北京朝阳青年路华纺易城",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "华纺易城"
+  },
+  {
+    "o_name": "朝阳区朝阳雅筑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "朝阳雅筑"
+  },
+  {
+    "o_name": "朝阳区甘露园中里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": ""
+  },
+  {
+    "o_name": "通州区宋庄镇白庙村南街",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "辽宁省北镇市沟帮子镇马家荒村",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区定福庄北街福怡园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "福怡苑小区"
+  },
+  {
+    "o_name": "朝阳区绿丰家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "豆各庄乡",
+    "name": "绿丰家园"
+  },
+  {
+    "o_name": "北京朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "朝阳区定福庄北里1号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北里1号院"
+  },
+  {
+    "o_name": "北京朝阳区民族家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "常营民族家园"
+  },
+  {
+    "o_name": "朝阳区京通苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "京通苑"
+  },
+  {
+    "o_name": "通州区李老新村",
+    "prov": "北京市",
+    "district": "通州区",
+    "township": "杨庄街道",
+    "name": "李老新村"
+  },
+  {
+    "o_name": "北京市朝阳区甘露园南里三区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "朝阳区大黄庄东里4号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "大黄庄东路"
+  },
+  {
+    "o_name": "北京黄山木店杉巷",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "通州区云景里甲",
+    "prov": "北京市",
+    "district": "通州区",
+    "township": "九棵树街道",
+    "name": "云景里"
+  },
+  {
+    "o_name": "朝阳区泰和园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "金隅泰和园"
+  },
+  {
+    "o_name": "朝阳区青年路29号院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京市朝阳区黄杉木店七巷号内",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "管庄东里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄东里"
+  },
+  {
+    "o_name": "朝阳区定福庄1号院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区花园闸北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "花园闸北里"
+  },
+  {
+    "o_name": "朝阳区大黄庄东路",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "大黄庄东路"
+  },
+  {
+    "o_name": "北京朝阳区建国",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "建外街道",
+    "name": "建国里"
+  },
+  {
+    "o_name": "朝阳北路柏林爱乐一期",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "柏林爱乐一期"
+  },
+  {
+    "o_name": "北京朝阳瑞祥里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "瑞祥里"
+  },
+  {
+    "o_name": "常营民族家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "常营民族家园"
+  },
+  {
+    "o_name": "东坝中路40号泓鑫家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "泓鑫家园"
+  },
+  {
+    "o_name": "甘露园三区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里一区"
+  },
+  {
+    "o_name": "朝阳区定福庄西街",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西街"
+  },
+  {
+    "o_name": "朝阳区万象新天",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "万象新天"
+  },
+  {
+    "o_name": "朝阳区甘露园南里区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "朝阳区定福庄西里1号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西里"
+  },
+  {
+    "o_name": "朝阳区管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "北京市朝阳区三间房",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京市定福庄北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北里"
+  },
+  {
+    "o_name": "双桥双惠苑小区5号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "双惠苑5号院"
+  },
+  {
+    "o_name": "朝阳区育慧西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "大屯街道",
+    "name": "育慧西里"
+  },
+  {
+    "o_name": "西安华商广告有限责任公",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京市朝阳区青年路29号院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区双桥温泉东里",
+    "prov": "北京市",
+    "district": "延庆区",
+    "township": "张山营镇",
+    "name": "双桥温泉东里小区"
+  },
+  {
+    "o_name": "三间房南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "三间房南里4号院"
+  },
+  {
+    "o_name": "朝阳区姚家园东里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "姚家园东里8号院"
+  },
+  {
+    "o_name": "朝阳区富力又一城",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "豆各庄乡",
+    "name": "富力又一城C区"
+  },
+  {
+    "o_name": "朝阳区高杨树",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "高杨树北里"
+  },
+  {
+    "o_name": "管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "朝阳区恒大江湾",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "恒大江湾"
+  },
+  {
+    "o_name": "朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "姚家园东里8号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "姚家园东里8号院"
+  },
+  {
+    "o_name": "北京星牌建材有限责任公司",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "东城区胡家园社区西区",
+    "prov": "北京市",
+    "district": "东城区",
+    "township": "东直门街道",
+    "name": "胡家园小区"
+  },
+  {
+    "o_name": "朝阳区高碑店东区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "高碑店东区"
+  },
+  {
+    "o_name": "北京通州西马庄",
+    "prov": "北京市",
+    "district": "通州区",
+    "township": "永顺镇",
+    "name": "西马庄甲6号"
+  },
+  {
+    "o_name": "北京朝阳区姚家园林泉路银谷美泉",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "银谷美泉"
+  },
+  {
+    "o_name": "朝阳区管庄东里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄东里"
+  },
+  {
+    "o_name": "朝阳区常楹公园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "常楹公元"
+  },
+  {
+    "o_name": "朝阳区艺水芳园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "艺水芳园"
+  },
+  {
+    "o_name": "尚东阁",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "尚东阁"
+  },
+  {
+    "o_name": "朝阳区大黄庄南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "大黄庄南里"
+  },
+  {
+    "o_name": "天泰北双苑小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "天泰北双苑"
+  },
+  {
+    "o_name": "朝阳珠江绿洲",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "珠江绿洲家园"
+  },
+  {
+    "o_name": "朝阳区红松园北里号内二号内",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "红松园北里2号院"
+  },
+  {
+    "o_name": "北京凯艺玩具有限责任公司",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区王四营乡南花园大队",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "王四营乡",
+    "name": "南花园大队村"
+  },
+  {
+    "o_name": "朝阳区博阳景园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "王四营乡",
+    "name": "柏阳景园"
+  },
+  {
+    "o_name": "北京市朝阳区定福庄西里号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西里"
+  },
+  {
+    "o_name": "朝阳区妇联小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "妇联小区"
+  },
+  {
+    "o_name": "朝阳区建东苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "建东苑"
+  },
+  {
+    "o_name": "北京市朝阳区高碑店村一区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "高碑店村"
+  },
+  {
+    "o_name": "朝阳区三间房东路",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "三间房东路"
+  },
+  {
+    "o_name": "北京市朝阳区朝阳北路柏林爱乐3期",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "柏林爱乐三期"
+  },
+  {
+    "o_name": "朝阳区双桥双合苑小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "双惠苑小区"
+  },
+  {
+    "o_name": "朝阳区定福庄西街",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西街"
+  },
+  {
+    "o_name": "北京市朝阳区定福庄北里1号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北里1号院"
+  },
+  {
+    "o_name": "朝阳区大黄庄",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区康家园小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "康家园"
+  },
+  {
+    "o_name": "北京市朝阳区康家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "康家园"
+  },
+  {
+    "o_name": "朝阳区常营民族家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "常营民族家园"
+  },
+  {
+    "o_name": "朝阳区五洲家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "五洲家园"
+  },
+  {
+    "o_name": "朝阳区管庄建东苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "建东苑"
+  },
+  {
+    "o_name": "朝阳区青年路华纺易城",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "华纺易城"
+  },
+  {
+    "o_name": "朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "北京市宣武区平渊北里",
+    "prov": "北京市",
+    "district": "西城区",
+    "township": "白纸坊街道",
+    "name": ""
+  },
+  {
+    "o_name": "朝阳区双桥东路",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "黑庄户乡",
+    "name": "双桥街18号院"
+  },
+  {
+    "o_name": "北京市朝阳区花园闸北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "花园闸北里"
+  },
+  {
+    "o_name": "华龙美树",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "华龙美树"
+  },
+  {
+    "o_name": "朝阳区定福庄北街",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "北京市通州区潞河中学北街26号院",
+    "prov": "北京市",
+    "district": "通州区",
+    "township": "北苑街道",
+    "name": "潞河中学北街26号院"
+  },
+  {
+    "o_name": "北京市朝阳区高碑店乡半壁店村",
+    "prov": "北京市",
+    "district": "通州区",
+    "township": "北苑街道",
+    "name": "半壁店村"
+  },
+  {
+    "o_name": "北京市朝阳区四惠东通惠家园号楼向日葵艺术幼儿园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "通惠家园"
+  },
+  {
+    "o_name": "朝阳区甘露园新",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "甘露园东里"
+  },
+  {
+    "o_name": "甘露园南里2区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "天达路2号院清河里晨风园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "豆各庄乡",
+    "name": "青荷里晨风园"
+  },
+  {
+    "o_name": "北京市朝阳区青年路",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区东坝奥园4期南",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "北京奥林匹克花园"
+  },
+  {
+    "o_name": "高碑店村2区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "高碑店村"
+  },
+  {
+    "o_name": "朝阳区朝阳北路熙悦尚郡公租房",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区青年路小区雅成一里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "青年路小区"
+  },
+  {
+    "o_name": "朝阳区定福庄北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北里"
+  },
+  {
+    "o_name": "朝阳区定福家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "定福家园"
+  },
+  {
+    "o_name": "朝阳区青年路22号院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区定福庄聚福苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "聚福苑"
+  },
+  {
+    "o_name": "北京朝阳区珠江绿洲小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "珠江绿洲家园"
+  },
+  {
+    "o_name": "朝阳区瑞祥里小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "瑞祥里"
+  },
+  {
+    "o_name": "朝阳区亮马厂",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "亮马厂"
+  },
+  {
+    "o_name": "朝阳区三间房供水小区座",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "管庄新村",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄新村"
+  },
+  {
+    "o_name": "中国原子能工业北京储运公司",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "朝阳区定福景园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福景园"
+  },
+  {
+    "o_name": "朝阳区北花园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "北花园"
+  },
+  {
+    "o_name": "1第一太平戴维斯物业顾问北京有限公司",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "甘露园南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "朝阳区定福庄北里1号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北里1号院"
+  },
+  {
+    "o_name": "朝阳区青年路罗马嘉园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "珠江罗马嘉园"
+  },
+  {
+    "o_name": "朝阳区京通苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "京通苑"
+  },
+  {
+    "o_name": "朝阳常营柏林爱乐",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "柏林爱乐"
+  },
+  {
+    "o_name": "北京市朝阳区朝阳路5号院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京市朝阳区黄渠东路2号院苹果派小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "苹果派"
+  },
+  {
+    "o_name": "富华家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "富华家园"
+  },
+  {
+    "o_name": "朝阳区黄山木店",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "朝阳区东柳西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "东柳西里"
+  },
+  {
+    "o_name": "朝阳区定福庄西街",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西街"
+  },
+  {
+    "o_name": "西城区鸭子桥南里",
+    "prov": "北京市",
+    "district": "西城区",
+    "township": "广安门外街道",
+    "name": "鸭子桥南里"
+  },
+  {
+    "o_name": "管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "北京市朝阳区高碑店白家楼小区1区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "白家楼村四区"
+  },
+  {
+    "o_name": "北京市朝阳区十里堡东里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "十里堡东里"
+  },
+  {
+    "o_name": "高碑店北花园小区号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "北花园"
+  },
+  {
+    "o_name": "北京明泰中恒环境工程有限公司",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区王四营康辉老年公寓",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京东坝汇景苑期",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "汇景苑"
+  },
+  {
+    "o_name": "朝阳区十里堡",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "十里堡"
+  },
+  {
+    "o_name": "北京波士山汽车销售服务有限公司",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区双桥双柳小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "双柳新居"
+  },
+  {
+    "o_name": "朝阳区管庄京通苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "京通苑"
+  },
+  {
+    "o_name": "北京朝阳朝阳路7院新天地",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "北京新天地"
+  },
+  {
+    "o_name": "朝阳区北花园小区1号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "北花园"
+  },
+  {
+    "o_name": "朝阳区北京新天地",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "北京新天地"
+  },
+  {
+    "o_name": "朝阳区管庄东里",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区管庄西里20号楼具体不详",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "朝阳区连心园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "连心园"
+  },
+  {
+    "o_name": "定福庄北里1号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北里1号院"
+  },
+  {
+    "o_name": "朝阳区三间房泰福苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "泰福苑D3区"
+  },
+  {
+    "o_name": "朝阳区67号院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京市王四营盛华公寓",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京市朝阳区康家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "康家园"
+  },
+  {
+    "o_name": "朝阳区王四营乡南花园村",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "王四营乡",
+    "name": "南花园村"
+  },
+  {
+    "o_name": "管庄柏林爱乐",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "柏林爱乐"
+  },
+  {
+    "o_name": "朝丰家园15号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "豆各庄乡",
+    "name": "朝丰家园15号院"
+  },
+  {
+    "o_name": "朝阳区管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "花园闸",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "花园闸北里"
+  },
+  {
+    "o_name": "朝阳区高碑店5号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "高碑店村5号院"
+  },
+  {
+    "o_name": "朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "朝阳区常营北辰福第",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "北辰福第六号院"
+  },
+  {
+    "o_name": "高碑店村四区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "高碑店村"
+  },
+  {
+    "o_name": "青年路",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区柏林爱乐",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "柏林爱乐"
+  },
+  {
+    "o_name": "朝阳区十里堡北区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "六里屯街道",
+    "name": "十里堡北区"
+  },
+  {
+    "o_name": "朝阳区都市经典家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "都市经典家园"
+  },
+  {
+    "o_name": "自费小条",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "高碑店甘露园南里1区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "北京丽朝阳区朝阳路财满街别墅小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "财满街嘉园小区"
+  },
+  {
+    "o_name": "朝阳区一线国际小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "壹线国际"
+  },
+  {
+    "o_name": "朝阳区八里庄东里甲1号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "八里庄东里"
+  },
+  {
+    "o_name": "朝阳区双桥金家村西里16排",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "金家村"
+  },
+  {
+    "o_name": "北京市朝阳区管庄京通苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "京通苑"
+  },
+  {
+    "o_name": "朝阳区黄渠东路苹果派",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "苹果派"
+  },
+  {
+    "o_name": "朝阳区金福家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "金福家园"
+  },
+  {
+    "o_name": "北京市朝阳区常营区",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区双慧苑小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "双惠苑"
+  },
+  {
+    "o_name": "北京市东城区大方家胡同",
+    "prov": "北京市",
+    "district": "东城区",
+    "township": "朝阳门街道",
+    "name": "大方家胡同"
+  },
+  {
+    "o_name": "朝阳区定福庄西街",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西街"
+  },
+  {
+    "o_name": "朝阳区朝丰家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "豆各庄乡",
+    "name": "朝丰家园"
+  },
+  {
+    "o_name": "东一时区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "东一时区"
+  },
+  {
+    "o_name": "北京市东城区北极阁二条",
+    "prov": "北京市",
+    "district": "东城区",
+    "township": "建国门街道",
+    "name": "北极阁二条"
+  },
+  {
+    "o_name": "北京通州北苑富力金禧花园",
+    "prov": "北京市",
+    "district": "通州区",
+    "township": "北苑街道",
+    "name": "富力金禧花园"
+  },
+  {
+    "o_name": "朝阳区姚家园东里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "姚家园东里"
+  },
+  {
+    "o_name": "朝阳区三间房泰福苑3区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "泰福苑D3区"
+  },
+  {
+    "o_name": "朝阳区管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "朝阳区扬州水乡",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "黑庄户乡",
+    "name": "扬州水乡"
+  },
+  {
+    "o_name": "三间房水岸双桥",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "水岸双桥"
+  },
+  {
+    "o_name": "朝阳区定福庄北街金星小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "金星小区"
+  },
+  {
+    "o_name": "朝阳高碑店乡花园闸村",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "花园闸小区"
+  },
+  {
+    "o_name": "北京市朝阳区王四营乡观音堂",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "王四营乡",
+    "name": "观音堂"
+  },
+  {
+    "o_name": "朝阳区万象新天4区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "万象新天"
+  },
+  {
+    "o_name": "朝阳区三间房乡东柳西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "东柳西里"
+  },
+  {
+    "o_name": "朝阳区五建",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区南太平庄北巷四建1分院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "太平庄北社区"
+  },
+  {
+    "o_name": "朝阳区甘露园南里三区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "朝阳区双柳巷",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "双柳巷"
+  },
+  {
+    "o_name": "双桥双汇苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "双惠苑2号院"
+  },
+  {
+    "o_name": "朝阳区建国路珠江绿洲",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "珠江绿洲家园"
+  },
+  {
+    "o_name": "北京同力达通信服务有限公司",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区康家园小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "康家园"
+  },
+  {
+    "o_name": "朝阳区丽景园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "金隅丽景园"
+  },
+  {
+    "o_name": "北京市朝阳区东坝中路30号院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区大鲁店大一村38号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "黑庄户乡",
+    "name": "大鲁店一村"
+  },
+  {
+    "o_name": "北京朝阳区定福庄北里1号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北里1号院"
+  },
+  {
+    "o_name": "朝阳区朝阳路京通苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "京通苑"
+  },
+  {
+    "o_name": "黄杉木店路富华家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "富华家园"
+  },
+  {
+    "o_name": "朝阳区管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "朝阳区豆各庄绿丰家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "豆各庄乡",
+    "name": "绿丰家园"
+  },
+  {
+    "o_name": "中国朝阳区定福庄南里4号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄南里"
+  },
+  {
+    "o_name": "朝阳区民族家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "常营民族家园"
+  },
+  {
+    "o_name": "朝阳兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "朝阳区东坝天璞家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "天璞家园"
+  },
+  {
+    "o_name": "朝阳区甘露园南里一区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里一区"
+  },
+  {
+    "o_name": "朝阳区三间房新房村",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "新房村"
+  },
+  {
+    "o_name": "朝阳区定福庄西里3号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西里"
+  },
+  {
+    "o_name": "北京市朝阳区管庄东里65搂",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄东里"
+  },
+  {
+    "o_name": "朝阳区奥林匹克花园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "奥林匹克花园"
+  },
+  {
+    "o_name": "朝阳区花园闸北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "花园闸北里"
+  },
+  {
+    "o_name": "朝阳区甘露园南里1区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "朝阳区大黄庄南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "大黄庄南里"
+  },
+  {
+    "o_name": "朝阳区汇鸿家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "汇鸿家园"
+  },
+  {
+    "o_name": "北京市朝阳区大黄庄东路",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "大黄庄东路"
+  },
+  {
+    "o_name": "北京天坛生物制品股份有限公司",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区十里堡东里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "十里堡东里"
+  },
+  {
+    "o_name": "观月馨园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "王四营乡",
+    "name": "官悦欣园"
+  },
+  {
+    "o_name": "朝阳区民族家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "常营民族家园"
+  },
+  {
+    "o_name": "北京常赢盈鑫商贸有限公司",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京亦庄国锐金顶",
+    "prov": "北京市",
+    "district": "大兴区",
+    "township": "荣华街道",
+    "name": "国锐金嵿"
+  },
+  {
+    "o_name": "门头沟龙山家园",
+    "prov": "北京市",
+    "district": "门头沟区",
+    "township": "大峪街道",
+    "name": "龙山家园5号院"
+  },
+  {
+    "o_name": "金泽家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "金泽家园"
+  },
+  {
+    "o_name": "朝阳区农丰里小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "呼家楼街道",
+    "name": "农丰里"
+  },
+  {
+    "o_name": "朝阳区定福庄北里1号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北里1号院"
+  },
+  {
+    "o_name": "北京市朝阳区定福庄西街楼南",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西街"
+  },
+  {
+    "o_name": "十里堡甘露西苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "甘露西园"
+  },
+  {
+    "o_name": "朝阳区甘露园南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "北京市朝阳区雅成一里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "雅成一里"
+  },
+  {
+    "o_name": "朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "北京市朝阳区和平街13居甲",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "和平街街道",
+    "name": "和平街十三区"
+  },
+  {
+    "o_name": "建国路91号金帝国际花园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "建外街道",
+    "name": "金地国际花园"
+  },
+  {
+    "o_name": "朝阳区都会华庭",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "都会华庭"
+  },
+  {
+    "o_name": "北京市朝阳区金盏乡金盏西村",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "金盏乡",
+    "name": "金盏西村"
+  },
+  {
+    "o_name": "朝阳区十里堡东里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "十里堡东里"
+  },
+  {
+    "o_name": "北京亦庄星岛假日",
+    "prov": "北京市",
+    "district": "大兴区",
+    "township": "亦庄镇",
+    "name": "星岛假日"
+  },
+  {
+    "o_name": "北京市朝阳区朝阳雅筑一号楼五单元",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "朝阳雅筑"
+  },
+  {
+    "o_name": "双桥路12号西大院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "双桥西大院"
+  },
+  {
+    "o_name": "朝阳区白家楼1区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "白家楼村一区"
+  },
+  {
+    "o_name": "北京市甘露园南里区层",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "朝阳区甜水园北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "六里屯街道",
+    "name": "甜水园北里"
+  },
+  {
+    "o_name": "朝阳区朝阳雅筑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "朝阳雅筑"
+  },
+  {
+    "o_name": "北京甘露园南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "朝阳区定福庄北齿家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "北齿小区"
+  },
+  {
+    "o_name": "北京市朝阳区双桥温泉东里小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "黑庄户乡",
+    "name": "双桥温泉东里小区"
+  },
+  {
+    "o_name": "朝阳区三间房周家井北岸",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京朝阳区建东苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "建东苑"
+  },
+  {
+    "o_name": "朝阳区甘露园朝阳无限",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "朝阳无限·芳菁苑"
+  },
+  {
+    "o_name": "朝阳区亮马厂",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "亮马厂"
+  },
+  {
+    "o_name": "定福庄福怡苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "福怡苑"
+  },
+  {
+    "o_name": "观湖国际",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东风乡",
+    "name": "观湖国际"
+  },
+  {
+    "o_name": "北京智联易人力资源顾问有限公司",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京朝阳区兴隆西街号院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京市朝阳区三间房乡褡连坡",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京市朝阳区豆各庄乡社区卫生服务中心",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳绿丰家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "豆各庄乡",
+    "name": "绿丰家园"
+  },
+  {
+    "o_name": "工大附中双桥分校宿舍",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "丽景苑小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "金隅丽景园"
+  },
+  {
+    "o_name": "朝阳区定福庄天泰定福苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "天泰定福苑"
+  },
+  {
+    "o_name": "北京市朝阳区朝阳北路",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京市朝阳区雅成二里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "雅成二里"
+  },
+  {
+    "o_name": "北京市朝阳区富华家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "富华家园"
+  },
+  {
+    "o_name": "朝阳区南太平庄北巷",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "南太平庄北巷"
+  },
+  {
+    "o_name": "朝外高井甲",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "高井甲1号院"
+  },
+  {
+    "o_name": "北京朝阳区朝阳路管庄新天地3期",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "北京新天地三期"
+  },
+  {
+    "o_name": "朝阳区姚家园东里号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "姚家园东里"
+  },
+  {
+    "o_name": "北京常营万象新天",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "万象新天"
+  },
+  {
+    "o_name": "朝阳区常营美丽园",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "中泰雅轩",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "中泰雅轩"
+  },
+  {
+    "o_name": "朝阳区康家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "康家园"
+  },
+  {
+    "o_name": "北京市常营乡连心园小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "连心园"
+  },
+  {
+    "o_name": "朝阳区管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "朝阳高碑店陶家湾小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "陶家湾"
+  },
+  {
+    "o_name": "朝阳区南太平庄北巷",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "南太平庄北巷"
+  },
+  {
+    "o_name": "朝阳区常营万象新天",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "万象新天"
+  },
+  {
+    "o_name": "北京市朝阳区管庄东会新村",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "东会新村"
+  },
+  {
+    "o_name": "观音堂号朝阳区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "王四营乡",
+    "name": "观音堂"
+  },
+  {
+    "o_name": "北京西四北五条15号院",
+    "prov": "北京市",
+    "district": "西城区",
+    "township": "新街口街道",
+    "name": "西四北五条"
+  },
+  {
+    "o_name": "朝阳区青年路小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "青年路小区"
+  },
+  {
+    "o_name": "北京市朝阳区平房",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区北京新天地",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "北京新天地"
+  },
+  {
+    "o_name": "三间房南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "三间房南里"
+  },
+  {
+    "o_name": "朝阳区王四营",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区双桥西大院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "双桥西大院"
+  },
+  {
+    "o_name": "朝阳区双桥",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区王四营观音景园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "王四营乡",
+    "name": "观音景园"
+  },
+  {
+    "o_name": "朝阳区十里堡北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "六里屯街道",
+    "name": "十里堡北里"
+  },
+  {
+    "o_name": "北京高碑店北花园小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "北花园"
+  },
+  {
+    "o_name": "海淀区牡丹北里",
+    "prov": "北京市",
+    "district": "海淀区",
+    "township": "花园路街道",
+    "name": "牡丹园北里"
+  },
+  {
+    "o_name": "朝阳区金盏乡农场家属院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区定福家园小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "定福家园"
+  },
+  {
+    "o_name": "北京市朝阳区定福庄南里4号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄南里"
+  },
+  {
+    "o_name": "北京华夏之声广告公司",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "甘露园南里3区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "朝阳区北花园小区3号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "北花园小区"
+  },
+  {
+    "o_name": "姚家园7号院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京市朝阳区道家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "六里屯街道",
+    "name": "道家园"
+  },
+  {
+    "o_name": "北京市朝阳区北花园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "北花园"
+  },
+  {
+    "o_name": "朝阳区三间房乡社保定福庄西街",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西街"
+  },
+  {
+    "o_name": "朝阳区定福庄西里2号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西里2号院"
+  },
+  {
+    "o_name": "朝阳区定福庄西街",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西街"
+  },
+  {
+    "o_name": "北京市朝阳区八里庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "八里庄西里"
+  },
+  {
+    "o_name": "北京市朝阳区柏林爱乐",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "柏林爱乐"
+  },
+  {
+    "o_name": "北京四惠通惠家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "通惠家园"
+  },
+  {
+    "o_name": "朝阳区汇鸿家园小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "汇鸿家园"
+  },
+  {
+    "o_name": "管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "朝阳区甘露园南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "青年路雅城一里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "雅成一里"
+  },
+  {
+    "o_name": "北京市朝阳区甘露园南里1区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里一区"
+  },
+  {
+    "o_name": "北京朝阳区东柳西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "东柳西里"
+  },
+  {
+    "o_name": "北京朝阳区定福庄北街甲15号园",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京市朝阳区定福庄南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄南里"
+  },
+  {
+    "o_name": "朝阳区都市经典家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "都市经典家园"
+  },
+  {
+    "o_name": "朝阳区朝丰家园小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "豆各庄乡",
+    "name": "朝丰家园小区"
+  },
+  {
+    "o_name": "丽景嘉苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "黑庄户乡",
+    "name": "丽景嘉苑"
+  },
+  {
+    "o_name": "北京市朝阳区黑庄户教师楼",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "甘露园南里二区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "朝阳区朝阳园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "麦子店街道",
+    "name": "朝阳园"
+  },
+  {
+    "o_name": "朝阳区朝阳园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "麦子店街道",
+    "name": "朝阳园"
+  },
+  {
+    "o_name": "朝阳区建材苑",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京市西城区木樨地南里",
+    "prov": "北京市",
+    "district": "西城区",
+    "township": "月坛街道",
+    "name": "木樨地南里1号院"
+  },
+  {
+    "o_name": "朝阳区十里堡东里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "十里堡东里"
+  },
+  {
+    "o_name": "朝阳区常营金隅丽景苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "金隅丽景园"
+  },
+  {
+    "o_name": "朝阳区连心园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "连心园"
+  },
+  {
+    "o_name": "朝阳区常营中路6号院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区定福庄北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北里"
+  },
+  {
+    "o_name": "北京市朝阳区平房乡黄渠村",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "黄渠村"
+  },
+  {
+    "o_name": "银谷美泉",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "银谷美泉"
+  },
+  {
+    "o_name": "朝阳区东八里庄",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "八里庄东里"
+  },
+  {
+    "o_name": "朝阳区燕宝常营家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "燕保常营家园"
+  },
+  {
+    "o_name": "朝阳区南太平北巷",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "南太平庄北巷"
+  },
+  {
+    "o_name": "北京市通州区宋庄镇常青藤艺术园区",
+    "prov": "北京市",
+    "district": "通州区",
+    "township": "宋庄镇",
+    "name": "长青藤艺术园区"
+  },
+  {
+    "o_name": "朝阳区朝阳雅筑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "朝阳雅筑"
+  },
+  {
+    "o_name": "朝阳区花园闸北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "花园闸北里"
+  },
+  {
+    "o_name": "朝阳区小郊亭",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "小郊亭新村"
+  },
+  {
+    "o_name": "北京朝阳区东坝家园区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "东坝家园"
+  },
+  {
+    "o_name": "朝阳畅心园小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "首开畅心园"
+  },
+  {
+    "o_name": "北京市朝阳区优点社区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "优点社区"
+  },
+  {
+    "o_name": "金驹家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "金驹家园"
+  },
+  {
+    "o_name": "朝阳区甘露园西里2号院中门",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "甘露园西里"
+  },
+  {
+    "o_name": "朝阳区育慧北路",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区双桥管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "朝阳区黄杉木店10巷",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区十里堡京棉新城",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "京棉新城"
+  },
+  {
+    "o_name": "朝阳区阳光上东",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "酒仙桥街道",
+    "name": "阳光上东"
+  },
+  {
+    "o_name": "北京市朝阳区定福景园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福景园"
+  },
+  {
+    "o_name": "华纺易城",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "华纺易城"
+  },
+  {
+    "o_name": "朝阳六号井",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "黑庄户乡",
+    "name": "双桥六号井"
+  },
+  {
+    "o_name": "朝阳区常营丽景园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "金隅丽景园"
+  },
+  {
+    "o_name": "朝阳区管庄塔影北街",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "管庄建东苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "建东苑"
+  },
+  {
+    "o_name": "朝阳区北京新天地1期",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "北京新天地"
+  },
+  {
+    "o_name": "双桥双惠苑1号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "双惠苑1号院"
+  },
+  {
+    "o_name": "朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "朝阳区珠江绿洲",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "珠江绿洲家园"
+  },
+  {
+    "o_name": "河北廊坊大厂潮白河孔雀城雅琴园",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区柏林爱乐",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "柏林爱乐"
+  },
+  {
+    "o_name": "北京市东方万泉汽车销售有限公司",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京市朝阳区三间房艺水芳园小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "艺水芳园"
+  },
+  {
+    "o_name": "朝阳区华纺易城",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "华纺易城"
+  },
+  {
+    "o_name": "朝阳区富华家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "富华家园"
+  },
+  {
+    "o_name": "朝阳区常营万象新天二区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "万象新天二区"
+  },
+  {
+    "o_name": "北京市朝阳区东坝悦和园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "和悦园"
+  },
+  {
+    "o_name": "朝阳区绿丰家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "豆各庄乡",
+    "name": "绿丰家园"
+  },
+  {
+    "o_name": "朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "高碑店西店",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区常营富力阳光美园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "富力阳光美园"
+  },
+  {
+    "o_name": "朝阳区常营燕保家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "燕保·常营家园"
+  },
+  {
+    "o_name": "朝阳区甜水园4条",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "六里屯街道",
+    "name": "甜水园街"
+  },
+  {
+    "o_name": "北京市朝阳区人民政府香河园街道办事处",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区双桥路双惠苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "双惠苑2号院"
+  },
+  {
+    "o_name": "北京市朝阳区定福庄西街南",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西街"
+  },
+  {
+    "o_name": "朝阳区南太平庄北巷",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "南太平庄北巷"
+  },
+  {
+    "o_name": "朝阳区丽景苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "黑庄户乡",
+    "name": "丽景嘉苑"
+  },
+  {
+    "o_name": "东一时区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "东一时区"
+  },
+  {
+    "o_name": "北京安赛物业管理有限公司",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "花园闸北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "花园闸北里"
+  },
+  {
+    "o_name": "北京市朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "朝阳区甘露园南里3区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "双惠苑小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "双惠苑"
+  },
+  {
+    "o_name": "朝阳区华纺易城",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "华纺易城"
+  },
+  {
+    "o_name": "朝阳区十里堡东里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "十里堡东里"
+  },
+  {
+    "o_name": "朝阳区甘露园南里区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "朝阳区十里堡东里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "十里堡东里"
+  },
+  {
+    "o_name": "朝阳区常营民族家园区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "常营民族家园"
+  },
+  {
+    "o_name": "朝阳区西军庄",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "西军庄"
+  },
+  {
+    "o_name": "朝阳区管庄建东苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "建东苑"
+  },
+  {
+    "o_name": "北京市朝阳区管庄京通苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "京通苑"
+  },
+  {
+    "o_name": "朝阳区金家村西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "金家村288号院"
+  },
+  {
+    "o_name": "朝阳区国美第一城",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "国美第一城"
+  },
+  {
+    "o_name": "朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "朝阳区定福庄北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北里"
+  },
+  {
+    "o_name": "朝阳区富华家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "富华家园"
+  },
+  {
+    "o_name": "北京市朝阳区朝阳园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "麦子店街道",
+    "name": "朝阳园"
+  },
+  {
+    "o_name": "朝阳区甘露园南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "北京市朝阳区大黄庄后街",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区姚家园东里号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "姚家园东里8号院"
+  },
+  {
+    "o_name": "朝阳区高碑店东区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "高碑店东区"
+  },
+  {
+    "o_name": "北京市朝阳区呼家楼西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "呼家楼街道",
+    "name": "呼家楼西里"
+  },
+  {
+    "o_name": "朝阳天鹅湾南",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "天鹅湾"
+  },
+  {
+    "o_name": "朝阳区五里桥一街",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "定福景园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福景园"
+  },
+  {
+    "o_name": "北京朝阳区大黄庄南里小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "大黄庄南里"
+  },
+  {
+    "o_name": "常营民族家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "常营民族家园"
+  },
+  {
+    "o_name": "北京市朝阳区双惠苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "双惠苑2号院"
+  },
+  {
+    "o_name": "朝阳区甘露园甘露家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "甘露家园"
+  },
+  {
+    "o_name": "朝阳区京通苑小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "京通苑"
+  },
+  {
+    "o_name": "华瀚福园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "华瀚福园C区"
+  },
+  {
+    "o_name": "朝阳区定福庄北里1号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北里1号院"
+  },
+  {
+    "o_name": "朝阳区柏林爱乐",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "柏林爱乐"
+  },
+  {
+    "o_name": "北京市东城区朝阳门南小街",
+    "prov": "北京市",
+    "district": "东城区",
+    "township": "朝阳门街道",
+    "name": ""
+  },
+  {
+    "o_name": "朝阳区双桥中路10号北院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "黑庄户乡",
+    "name": "双桥中路10号北院"
+  },
+  {
+    "o_name": "北京市朝阳区黄杉木店路号富华家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "富华家园"
+  },
+  {
+    "o_name": "姚家园东里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "姚家园东里"
+  },
+  {
+    "o_name": "朝阳区瑞祥里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "瑞祥里"
+  },
+  {
+    "o_name": "朝阳区东坝潮新家园东里5区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "朝新嘉园东里"
+  },
+  {
+    "o_name": "北京朝阳区万象新天",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "万象新天"
+  },
+  {
+    "o_name": "北京朝阳区北花园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "北花园"
+  },
+  {
+    "o_name": "朝阳区管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "北京市朝阳区丽泽西园",
+    "prov": "北京市",
+    "district": "丰台区",
+    "township": "丰台街道",
+    "name": "丽泽景园"
+  },
+  {
+    "o_name": "朝阳北路",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区甘露园中里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "露园中里"
+  },
+  {
+    "o_name": "朝阳区垡头街道双合区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "垡头街道",
+    "name": "双合家园"
+  },
+  {
+    "o_name": "朝阳区定福庄北街金福家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "金福家园"
+  },
+  {
+    "o_name": "朝阳区大黄庄绿岛苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "绿岛苑"
+  },
+  {
+    "o_name": "朝阳双桥东路东一时区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "东一时区"
+  },
+  {
+    "o_name": "朝阳区管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "朝阳区花园闸北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "花园闸北里"
+  },
+  {
+    "o_name": "朝阳区双桥温泉北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "黑庄户乡",
+    "name": "双桥温泉北里小区"
+  },
+  {
+    "o_name": "朝阳区富华家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "富华家园"
+  },
+  {
+    "o_name": "朝阳区金盏东村",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "金盏乡",
+    "name": ""
+  },
+  {
+    "o_name": "朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "朝阳区甘露园南里三区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "朝阳区雅成三里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "雅成三里"
+  },
+  {
+    "o_name": "朝阳区东军庄",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "东军庄"
+  },
+  {
+    "o_name": "朝阳区康惠园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "金隅康惠园"
+  },
+  {
+    "o_name": "三间房南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "三间房南里"
+  },
+  {
+    "o_name": "花园闸北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "花园闸北里"
+  },
+  {
+    "o_name": "定福庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西里"
+  },
+  {
+    "o_name": "朝阳区京烟宿舍",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "京烟宿舍小区"
+  },
+  {
+    "o_name": "朝阳区黄山木店平房3巷",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "幸福家园南区",
+    "prov": "北京市",
+    "district": "海淀区",
+    "township": "上地街道",
+    "name": "幸福家园1号院"
+  },
+  {
+    "o_name": "朝阳区定福庄北街",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北里"
+  },
+  {
+    "o_name": "管庄京通苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "京通苑"
+  },
+  {
+    "o_name": "北京市朝阳区管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "朝阳区康家园小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "康家园"
+  },
+  {
+    "o_name": "福怡园小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "福怡苑"
+  },
+  {
+    "o_name": "朝阳区沿海赛洛城",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "南磨房乡",
+    "name": "沿海赛洛城"
+  },
+  {
+    "o_name": "定福庄北里1号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北里1号院"
+  },
+  {
+    "o_name": "朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "朝阳高碑店5号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "高碑店村5号院"
+  },
+  {
+    "o_name": "朝阳区管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "朝阳区常营柏林爱乐",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "柏林爱乐"
+  },
+  {
+    "o_name": "东城区西营房胡同9号院",
+    "prov": "北京市",
+    "district": "东城区",
+    "township": "和平里街道",
+    "name": "西营房胡同9号院"
+  },
+  {
+    "o_name": "北京朝阳区南十里居",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东风乡",
+    "name": "南十里居"
+  },
+  {
+    "o_name": "北京市朝阳区高碑店陶家湾小区一楼",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "陶家湾"
+  },
+  {
+    "o_name": "北京市朝阳区金盏乡楼梓庄村",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "金盏乡",
+    "name": "楼梓庄教工宿舍"
+  },
+  {
+    "o_name": "朝阳区管庄建东苑东区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "建东苑"
+  },
+  {
+    "o_name": "朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "北京市朝阳区双惠园小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "双惠苑"
+  },
+  {
+    "o_name": "双桥农场",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区定福庄北街福怡园小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "福怡苑小区"
+  },
+  {
+    "o_name": "朝阳美丽亚洲",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "美丽亚洲假日花园"
+  },
+  {
+    "o_name": "朝阳区高碑店5号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "高碑店村5号院"
+  },
+  {
+    "o_name": "三间房南街",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "丽景苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "黑庄户乡",
+    "name": "金隅丽景园"
+  },
+  {
+    "o_name": "朝阳区康家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "康家园"
+  },
+  {
+    "o_name": "朝阳区康家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "康家园"
+  },
+  {
+    "o_name": "十里堡东里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "十里堡东里"
+  },
+  {
+    "o_name": "朝阳区花园闸北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "花园闸北里"
+  },
+  {
+    "o_name": "白家楼南里白家楼村线高杆",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "白家楼村"
+  },
+  {
+    "o_name": "北京市朝阳区王四营乡官庄",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "王四营乡",
+    "name": "官庄村"
+  },
+  {
+    "o_name": "朝阳区高井南太平庄北巷",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "南太平庄北巷"
+  },
+  {
+    "o_name": "北京市朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "朝阳区大黄庄定福庄西街33号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西街"
+  },
+  {
+    "o_name": "朝阳区天鹅湾",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "天鹅湾"
+  },
+  {
+    "o_name": "朝阳区青年路小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "青年路小区"
+  },
+  {
+    "o_name": "朝阳区定福庄南里四号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄南里"
+  },
+  {
+    "o_name": "朝阳区双桥东路",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区定福庄北里1号鲁班大厦",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北里"
+  },
+  {
+    "o_name": "朝阳区东坝东泽园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "东泽园"
+  },
+  {
+    "o_name": "朝阳区甘露园南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "朝阳区苹果派小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "苹果派"
+  },
+  {
+    "o_name": "朝阳区定福庄西里3号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西里"
+  },
+  {
+    "o_name": "朝阳区常营丽景园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "金隅丽景园"
+  },
+  {
+    "o_name": "北京朝阳姚家园东里8号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "姚家园东里8号院"
+  },
+  {
+    "o_name": "北京市朝阳区丽景馨居",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "丽景馨居"
+  },
+  {
+    "o_name": "百子湾东里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "南磨房乡",
+    "name": "百子湾东里"
+  },
+  {
+    "o_name": "沿海赛洛城",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "南磨房乡",
+    "name": "沿海赛洛城"
+  },
+  {
+    "o_name": "朝阳区建东苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "建东苑"
+  },
+  {
+    "o_name": "朝阳区朝阳路19号院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳甘露园东里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "甘露园东里"
+  },
+  {
+    "o_name": "朝阳甘露园南里一区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里一区"
+  },
+  {
+    "o_name": "朝阳区三间房社会保险代理处",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "通州区新华小区",
+    "prov": "北京市",
+    "district": "通州区",
+    "township": "中仓街道",
+    "name": "新华小区"
+  },
+  {
+    "o_name": "朝阳区杨闸环岛东",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区铁路大院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区高碑店康家园小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "康家园"
+  },
+  {
+    "o_name": "朝阳区雅成一里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "雅成一里"
+  },
+  {
+    "o_name": "朝阳区双惠苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "双惠苑"
+  },
+  {
+    "o_name": "朝阳区瑞祥里小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "瑞祥里"
+  },
+  {
+    "o_name": "朝阳区六里屯晨光家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "六里屯街道",
+    "name": "晨光家园"
+  },
+  {
+    "o_name": "北京市朝阳区王四营乡南花园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "王四营乡",
+    "name": "南花园村"
+  },
+  {
+    "o_name": "北京中四达职业介绍服务中心社会保险代理处",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京通州区永顺镇物资学院路西富河园六号院",
+    "prov": "北京市",
+    "district": "通州区",
+    "township": "永顺镇",
+    "name": "富河园"
+  },
+  {
+    "o_name": "朝阳区定福家园2号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福家园2号院"
+  },
+  {
+    "o_name": "朝阳区管庄",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区青年路青年汇家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "青年汇佳园"
+  },
+  {
+    "o_name": "北京朝阳路3号院",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区东坝金驹家园区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "金驹家园"
+  },
+  {
+    "o_name": "兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "朝阳区双桥双惠苑小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "双惠苑"
+  },
+  {
+    "o_name": "北京市朝阳区通惠家园惠民园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "惠民园"
+  },
+  {
+    "o_name": "北京市朝阳区爱这城二期",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "爱这城二期"
+  },
+  {
+    "o_name": "朝阳区泰福园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "泰福苑D1区"
+  },
+  {
+    "o_name": "安徽省颍上县谢桥镇万夏村圩一队",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区高碑店区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "高碑店东区"
+  },
+  {
+    "o_name": "朝阳区白家楼小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "白家楼小区"
+  },
+  {
+    "o_name": "北京市朝阳区管庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄西里"
+  },
+  {
+    "o_name": "朝阳区甘露园南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "朝阳区管庄京客隆宿舍3排",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区甘露园小区南里2区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里一区"
+  },
+  {
+    "o_name": "朝阳区高井",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "广宁街道",
+    "name": "高井小区"
+  },
+  {
+    "o_name": "朝阳区保利嘉园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "保利嘉园"
+  },
+  {
+    "o_name": "北京市通州区永顺镇潞苑南大街",
+    "prov": "北京市",
+    "district": "通州区",
+    "township": "潞邑街道",
+    "name": "潞苑南大街88号院"
+  },
+  {
+    "o_name": "北花园小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "北花园"
+  },
+  {
+    "o_name": "北京市朝阳区平房村",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "平房村"
+  },
+  {
+    "o_name": "通州区西马庄园",
+    "prov": "北京市",
+    "district": "通州区",
+    "township": "永顺镇",
+    "name": "西马庄园"
+  },
+  {
+    "o_name": "朝阳区王四营镇和安嘉园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "豆各庄乡",
+    "name": "和安嘉园"
+  },
+  {
+    "o_name": "甘露园南里3区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "朝阳区双桥铁路小区北区号楼南平房",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "双桥铁路小区"
+  },
+  {
+    "o_name": "定福庄北街福怡苑小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "福怡苑"
+  },
+  {
+    "o_name": "朝阳区二外",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区管庄北2里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "管庄北二里"
+  },
+  {
+    "o_name": "朝阳区大黄庄南里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "大黄庄南里"
+  },
+  {
+    "o_name": "通州区永顺镇新建村2期",
+    "prov": "北京市",
+    "district": "通州区",
+    "township": "潞城镇",
+    "name": "新建村"
+  },
+  {
+    "o_name": "朝阳区窦各庄清荷里南山苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "豆各庄乡",
+    "name": "青荷里南山园"
+  },
+  {
+    "o_name": "朝阳区南太平庄北巷",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "太平庄北社区"
+  },
+  {
+    "o_name": "朝阳区定福庄北里1号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄北里1号院"
+  },
+  {
+    "o_name": "康家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "康家园"
+  },
+  {
+    "o_name": "定福庄西街",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西街"
+  },
+  {
+    "o_name": "朝阳区水岸双桥小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "水岸双桥"
+  },
+  {
+    "o_name": "朝阳区东坝金泽家园区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "金泽家园"
+  },
+  {
+    "o_name": "朝阳区杨闸环岛",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "北京市朝阳区平房乡平房西街",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区南太平庄北巷",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "南太平庄北巷"
+  },
+  {
+    "o_name": "北京朝阳区十里堡北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "六里屯街道",
+    "name": "十里堡北里"
+  },
+  {
+    "o_name": "北京市朝阳区管庄乡杨闸村",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "杨闸新村"
+  },
+  {
+    "o_name": "北京市朝阳区柏林爱乐",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "柏林爱乐"
+  },
+  {
+    "o_name": "朝阳区八里庄西里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "八里庄西里"
+  },
+  {
+    "o_name": "朝阳区润枫水尚",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "润枫水尚东区"
+  },
+  {
+    "o_name": "朝阳区远洋一方林语苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "远洋一方林语苑"
+  },
+  {
+    "o_name": "朝阳区康家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "康家园"
+  },
+  {
+    "o_name": "朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "北京甘露园南里三区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "朝阳区花园闸北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "花园闸北里"
+  },
+  {
+    "o_name": "朝阳区美然动力",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "美然动力A2区"
+  },
+  {
+    "o_name": "北京市朝阳区高碑店东区区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "高碑店东区"
+  },
+  {
+    "o_name": "朝阳区水岸双桥小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "水岸双桥"
+  },
+  {
+    "o_name": "河北省秦皇岛市卢龙县印庄乡二街",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区黄渠",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "甘露园南里一区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "甘露园南里"
+  },
+  {
+    "o_name": "朝阳区杨闸京通苑小区号楼层",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "管庄乡",
+    "name": "京通苑阳光华苑"
+  },
+  {
+    "o_name": "朝阳区星河湾",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "星河湾"
+  },
+  {
+    "o_name": "朝阳区石佛营",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区兴隆家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "兴隆家园"
+  },
+  {
+    "o_name": "朝阳区姚家园西里5号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "姚家园西里"
+  },
+  {
+    "o_name": "北京朝阳区定福庄北街",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区康家沟",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "水岸双桥小区1号楼",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "水岸双桥"
+  },
+  {
+    "o_name": "朝阳区朝阳雅筑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "朝阳雅筑"
+  },
+  {
+    "o_name": "朝阳区常营保利嘉园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "保利嘉园"
+  },
+  {
+    "o_name": "",
+    "prov": null,
+    "district": null,
+    "township": null,
+    "name": null
+  },
+  {
+    "o_name": "朝阳区黄杉木店富华家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "富华家园"
+  },
+  {
+    "o_name": "朝阳区连心园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "连心园"
+  },
+  {
+    "o_name": "北京北开电器股份有限公司",
+    "prov": "北京市",
+    "district": "东城区",
+    "township": "东华门街道",
+    "name": "北京北"
+  },
+  {
+    "o_name": "朝阳区柏林爱乐",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "柏林爱乐"
+  },
+  {
+    "o_name": "朝阳区定福庄南里甲",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄南里"
+  },
+  {
+    "o_name": "朝阳区柏林爱乐4期",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "柏林爱乐四期"
+  },
+  {
+    "o_name": "朝阳区绿丰家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "豆各庄乡",
+    "name": "绿丰家园"
+  },
+  {
+    "o_name": "朝阳区大黄庄绿岛苑",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "绿岛苑东区"
+  },
+  {
+    "o_name": "双桥温泉东里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "黑庄户乡",
+    "name": "双桥温泉东里小区"
+  },
+  {
+    "o_name": "北京朝阳幸福家园北里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福家园北里"
+  },
+  {
+    "o_name": "朝阳区白领家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "白领家园"
+  },
+  {
+    "o_name": "朝阳百子湾东里",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "南磨房乡",
+    "name": "百子湾东里"
+  },
+  {
+    "o_name": "北京市朝阳区东坝金隅悦和园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "东坝乡",
+    "name": "金隅悦和园"
+  },
+  {
+    "o_name": "青年路西里2号院",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "润枫水尚西区"
+  },
+  {
+    "o_name": "朝阳区富华家园",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "平房乡",
+    "name": "富华家园"
+  },
+  {
+    "o_name": "朝阳区高碑店西店",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "西店村"
+  },
+  {
+    "o_name": "朝阳区高碑店陶家湾小区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "高碑店乡",
+    "name": "陶家湾"
+  },
+  {
+    "o_name": "通州区千樟树",
+    "prov": "北京市",
+    "district": "通州区",
+    "township": "宋庄镇",
+    "name": "融创千章墅"
+  },
+  {
+    "o_name": "朝阳区定福庄西街",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "三间房乡",
+    "name": "定福庄西街"
+  },
+  {
+    "o_name": "朝阳区东区国际",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "八里庄街道",
+    "name": "东区国际"
+  },
+  {
+    "o_name": "朝阳区常营天街西区",
+    "prov": "北京市",
+    "district": "朝阳区",
+    "township": "常营回族乡",
+    "name": "长楹天街西区"
+  }
+]
