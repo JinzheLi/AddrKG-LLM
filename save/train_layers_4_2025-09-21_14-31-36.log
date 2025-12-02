@@ -1,0 +1,30 @@
+nohup: ignoring input
+==================================================
+训练启动，参数配置如下：
+epochs: 1000
+patience: 10
+lr: 0.001
+hidden_dim: 256
+out_dim: 128
+num_layers: 43
+save_path: save/graph_emb
+data_path: data/Beijing_community.csv
+==================================================
+训练结果将保存到: save/graph_emb/2025-09-21_14-31-42
+========== 开始训练，共 1000 轮 ==========
+Epoch 0, Loss: 13.9098
+Epoch 1, Loss: 13.9098
+Epoch 2, Loss: 13.9098
+Epoch 3, Loss: 13.9098
+Epoch 4, Loss: 13.9098
+Epoch 5, Loss: 13.9098
+Epoch 6, Loss: 13.9098
+Epoch 7, Loss: 13.9098
+Epoch 8, Loss: 13.9098
+Epoch 9, Loss: 13.9098
+Epoch 10, Loss: 13.9098
+Epoch 11, Loss: 13.9098
+Epoch 12, Loss: 13.9098
+早停触发，最佳 Loss: 13.9098
+✅ 训练完成，embedding 行数=8452
+Top-K 示例： [{'id': 7959, 'prov': '北京市', 'name': '考拉社区', 'district': '西城区', 'township': '广安门外街道', 'address': '北京市西城区广安门外街道云川台球信德园', 'lat': nan, 'lng': nan, 'score': -0.00402098149061203}, {'id': 6893, 'prov': '北京市', 'name': '马连道东街', 'district': '西城区', 'township': '广安门外街道', 'address': '北京市西城区广安门外街道马连道南街红莲北里(马连道东街)', 'lat': nan, 'lng': nan, 'score': -0.004020986147224903}, {'id': 6916, 'prov': '北京市', 'name': '立恒名苑', 'district': '西城区', 'township': '广安门外街道', 'address': '北京市西城区广安门外街道立恒名苑', 'lat': nan, 'lng': nan, 'score': -0.004020987544208765}, {'id': 2626, 'prov': '北京市', 'name': '三义东里', 'district': '西城区', 'township': '广安门外街道', 'address': '北京市西城区广安门外街道北京辽瓦轴承有限责任公司三义东里', 'lat': nan, 'lng': nan, 'score': -0.004020987544208765}, {'id': 6848, 'prov': '北京市', 'name': '手帕口北街', 'district': '西城区', 'township': '广安门外街道', 'address': '北京市西城区广安门外街道手帕口北街天宁寺西里', 'lat': nan, 'lng': nan, 'score': -0.004020988009870052}, {'id': 7019, 'prov': '北京市', 'name': '马连道欣园东路', 'district': '西城区', 'township': '广安门外街道', 'address': '北京市西城区广安门外街道马连道欣园东路康宁居', 'lat': nan, 'lng': nan, 'score': -0.004020990338176489}, {'id': 6940, 'prov': '北京市', 'name': '红居南街6号院', 'district': '西城区', 'township': '广安门外街道', 'address': '北京市西城区广安门外街道红居南街6号院红居南街6号院二机床宿舍', 'lat': nan, 'lng': nan, 'score': -0.004020991735160351}, {'id': 4751, 'prov': '北京市', 'name': '三义里', 'district': '西城区', 'township': '广安门外街道', 'address': '北京市西城区广安门外街道三义里三巷北京市西城区广外医院', 'lat': nan, 'lng': nan, 'score': -0.004020991735160351}, {'id': 6996, 'prov': '北京市', 'name': '政泰家园', 'district': '西城区', 'township': '广安门外街道', 'address': '北京市西城区广安门外街道政泰家园鸭子桥路45号院', 'lat': nan, 'lng': nan, 'score': -0.004020992200821638}, {'id': 5370, 'prov': '北京市', 'name': '车站西街17号院', 'district': '西城区', 'township': '广安门外街道', 'address': '北京市西城区广安门外街道车站西街17号院', 'lat': nan, 'lng': nan, 'score': -0.004020992666482925}, {'id': 6928, 'prov': '北京市', 'name': '远见名苑二期', 'district': '西城区', 'township': '广安门外街道', 'address': '北京市西城区广安门外街道远见名苑一期远见名苑1期', 'lat': nan, 'lng': nan, 'score': -0.0040209935978055}, {'id': 8196, 'prov': '北京市', 'name': '政通路西里', 'district': '西城区', 'township': '广安门外街道', 'address': '北京市西城区广安门外街道广安门外大街335号中烟商厦', 'lat': nan, 'lng': nan, 'score': -0.004020995926111937}, {'id': 6931, 'prov': '北京市', 'name': '馨莲茗园', 'district': '西城区', 'township': '广安门外街道', 'address': '北京市西城区广安门外街道更香茗膳府馨莲茗园', 'lat': nan, 'lng': nan, 'score': -0.004020996391773224}, {'id': 5375, 'prov': '北京市', 'name': '太平里', 'district': '西城区', 'township': '广安门外街道', 'address': '北京市西城区广安门外街道太平里莲馨苑小区', 'lat': nan, 'lng': nan, 'score': -0.004020998254418373}, {'id': 4777, 'prov': '北京市', 'name': '天宁寺西里', 'district': '西城区', 'township': '广安门外街道', 'address': '北京市西城区广安门外街道天宁寺西里', 'lat': nan, 'lng': nan, 'score': -0.004020999185740948}, {'id': 1645, 'prov': '北京市', 'name': '远见名苑', 'district': '西城区', 'township': '广安门外街道', 'address': '北京市西城区广安门外街道远见名苑一期远见名苑1期', 'lat': nan, 'lng': nan, 'score': -0.00402100058272481}, {'id': 6838, 'prov': '北京市', 'name': '小马厂西里', 'district': '西城区', 'township': '广安门外街道', 'address': '北京市西城区广安门外街道小马厂西里', 'lat': nan, 'lng': nan, 'score': -0.004021001048386097}, {'id': 6948, 'prov': '北京市', 'name': '白菜湾四巷17号院', 'district': '西城区', 'township': '广安门外街道', 'address': '北京市西城区广安门外街道白菜湾四巷17号院', 'lat': nan, 'lng': nan, 'score': -0.004021001048386097}, {'id': 7011, 'prov': '北京市', 'name': '瑞莲家园', 'district': '西城区', 'township': '广安门外街道', 'address': '北京市西城区广安门外街道瑞莲家园', 'lat': nan, 'lng': nan, 'score': -0.004021002445369959}, {'id': 4755, 'prov': '北京市', 'name': '远见国际公寓', 'district': '西城区', 'township': '广安门外街道', 'address': '北京市西城区广安门外街道远见国际公寓一商广安商城', 'lat': nan, 'lng': nan, 'score': -0.004021002445369959}]
